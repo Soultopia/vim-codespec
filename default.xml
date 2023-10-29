@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ 
+  <remote  name="origin"
+           fetch="https://github.com/Soultopia/Heimdallr.git" />
+  <default revision="master"
+           remote="origin"
+           sync-j="1" />
+ 
+  <project path="dir1/dir2" name="heaven/Heimdallr" />
+ 
+</manifest>

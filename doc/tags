@@ -1,2 +1,4 @@
-codespec	codespec.txt	/*codespec*
+capslock	codespec.txt	/*capslock*
+capslock-gC	codespec.txt	/*capslock-gC*
+capslock-i_CTRL-G_c	codespec.txt	/*capslock-i_CTRL-G_c*
 codespec.txt	codespec.txt	/*codespec.txt*
